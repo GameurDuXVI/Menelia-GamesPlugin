@@ -1,0 +1,9 @@
+name: GamesPlugin
+version: 1.0
+author: GameurDuXVI
+main: fr.gameurduxvi.gamesplugin.Main
+depend: [MeneliaAPI]
+commands:
+  hub:
+    description: Teleporte vers le hub
+    permission:
